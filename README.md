@@ -1,2 +1,2 @@
-# crypto_tax_calculator
+# cryptoTaxCalculator
 tax calculator for transactions on CoinDCX
